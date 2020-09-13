@@ -1,32 +1,32 @@
 # Prerequisites
-/*.d
+MyClient\*.d
 
 # Compiled Object files
-/*.slo
-/*.lo
-/*.o
-/*.obj
+MyClient\*.slo
+MyClient\*.lo
+MyClient\*.o
+MyClient\*.obj
 
 # Precompiled Headers
-/*.gch
-/*.pch
+MyClient\*.gch
+MyClient\*.pch
 
 # Compiled Dynamic libraries
-/*.so
-/*.dylib
-/*.dll
+MyClient\*.so
+MyClient\*.dylib
+MyClient\*.dll
 
 # Fortran module files
-/*.mod
-/*.smod
+MyClient\*.mod
+MyClient\*.smod
 
 # Compiled Static libraries
-/*.lai
-/*.la
-/*.a
-/*.lib
+MyClient\*.lai
+MyClient\*.la
+MyClient\*.a
+MyClient\*.lib
 
 # Executables
-/*.exe
-/*.out
-/*.app
+MyClient\*.exe
+MyClient\*.out
+MyClient\*.app
